@@ -1,1 +1,4 @@
 admin/*
+*.key
+*.pdf
+.DS_Store

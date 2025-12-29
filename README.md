@@ -19,3 +19,7 @@ No software installation is required. We will use Google Colab for our "Dry Lab"
 - Session 1: Introduction to R (Part 1) 
   - [Lecture Script](lectures/Session_01_Intro_R/Session_1_Lecture_Script.R)
   - [Tutorial Notebook](tutorials/Session_01_Tutorial/Tutorial_1_Daily_QC_Run.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_01_Tutorial/Tutorial_1_Daily_QC_Run.ipynb)
+
+- Session 2: Introduction to R (Part 2) - Data Frames & I/O
+  - [Lecture Script](lectures/Session_02_DataFrames/Session_2_Script.R)
+  - [Tutorial Notebook](tutorials/Session_02_Tutorial/Tutorial_2_LIS_Import.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_02_Tutorial/Tutorial_2_LIS_Import.ipynb)
