@@ -7,18 +7,15 @@
 ## Course Overview
 This repository contains the comprehensive preparation package for **Module 3**, tailored for Postgraduate Certificate in Bioinformatics for Medical Laboratory Technologists (MLTs). This plan integrates the "Code-as-Protocol" pedagogical approach.
 
-## Quick Start
-No software installation is required. We will use Google Colab for our "Dry Lab" sessions.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_01_Tutorial/Tutorial_1_Daily_QC_Run.ipynb)
-
 ## Repository Structure
 - **`lectures/`**: Slides and R scripts used during the lecture.
 - **`tutorials/`**: Interactive notebooks for hands-on practice.
 - **`data/`**: Raw datasets used in exercises.
 - **`setup/`**: Scripts to initialize the R environment.
 
-## Session 1: Introduction to R (Part 1)
-**Theme:** From Manual Worksheet to Digital Protocol.
-- [Lecture Script](lectures/Session_01_Intro_R/Session_1_Lecture_Script.R)
-- [Tutorial Notebook](tutorials/Session_01_Tutorial/Tutorial_1_Daily_QC_Run.ipynb)
+## Quick Start
+No software installation is required. We will use Google Colab for our "Dry Lab" sessions. Remember to **change runtime to R** while using colab (**Runtime -> Change runtime type -> R**).
+
+- Session 1: Introduction to R (Part 1) 
+  - [Lecture Script](lectures/Session_01_Intro_R/Session_1_Lecture_Script.R)
+  - [Tutorial Notebook](tutorials/Session_01_Tutorial/Tutorial_1_Daily_QC_Run.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_01_Tutorial/Tutorial_1_Daily_QC_Run.ipynb)
