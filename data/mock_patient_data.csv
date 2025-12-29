@@ -1,0 +1,11 @@
+patient_id,age,gender,test_type,result_value,result_unit,test_date
+P001,45,M,Glucose,5.5,mmol/L,2026-01-05
+P002,32,F,Glucose,4.8,mmol/L,2026-01-05
+P003,67,M,Glucose,7.2,mmol/L,2026-01-05
+P004,28,F,Glucose,5.1,mmol/L,2026-01-05
+P005,55,F,Glucose,6.0,mmol/L,2026-01-05
+P006,41,M,Glucose,5.3,mmol/L,2026-01-05
+P007,72,M,Glucose,8.1,mmol/L,2026-01-05
+P008,24,F,Glucose,4.5,mmol/L,2026-01-05
+P009,38,M,Glucose,5.8,mmol/L,2026-01-05
+P010,61,F,Glucose,6.5,mmol/L,2026-01-05
