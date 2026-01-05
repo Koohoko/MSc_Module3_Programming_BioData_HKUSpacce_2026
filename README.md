@@ -1,7 +1,9 @@
 # MSc Module 3: Programming for Biological Data (2026)
 
-**Instructor:** Dr. Gu Haogao  
+**Instructor:** Haogao GU  
+
 **Institution:** SPH HKU / HKU SPACE 
+
 **Date:** January 2026
 
 ## Course Overview
