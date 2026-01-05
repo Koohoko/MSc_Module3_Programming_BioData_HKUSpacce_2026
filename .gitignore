@@ -1,5 +1,5 @@
 admin/*
-*.key
-*.pdf
-*.pptx
+# *.key
+# *.pdf
+# *.pptx
 .DS_Store

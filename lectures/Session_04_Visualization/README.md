@@ -1,7 +1,7 @@
 # Session 4: Introduction to R (Part 4) - Data Visualization
 
 ## Lecture Materials
-- **Slides:** [HTML](session_4_visualization.html)
+- **Slides:** [PDF](slides/Session%204%20Visualization.pdf)
 - **R Script:** [lecture_4_demo.R](scripts/lecture_4_demo.R)
 - **Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_04_Visualization/scripts/lecture_4_demo.ipynb)
 
