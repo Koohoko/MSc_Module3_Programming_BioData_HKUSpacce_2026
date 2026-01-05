@@ -1,0 +1,35 @@
+Session 3: Logic and Control Flow
+===================================
+
+Overview
+--------
+This session shifts from "Data Handling" to "Algorithmic Thinking." We will build an "Auto-Verifier" script that mimics a Laboratory Information System (LIS).
+
+Learning Objectives
+-------------------
+1. Understand Boolean Logic (TRUE/FALSE).
+2. Use Comparison Operators (==, >, <) and Logical Operators (&, |).
+3. Control flow with `if`, `else`, and `else if`.
+4. Automate repetitive tasks using `for` loops.
+5. Combine logic and loops to process a batch of patient results.
+
+Activity: The HbA1c Auto-Verifier
+---------------------------------
+You will write a script to process 50 HbA1c results.
+Rules (ADA Guidelines):
+- < 5.7: Normal
+- 5.7 - 6.4: Prediabetes
+- >= 6.5: Diabetes
+
+Files
+-----
+- data/hba1c_results.csv: The raw dataset.
+- scripts/lecture_3_demo.R: Code examples from the lecture.
+- scripts/tutorial_3_autoverifier.R: The solution script for the tutorial activity.
+
+Instructions
+------------
+1. Open RStudio or your preferred R environment.
+2. Load the `hba1c_results.csv` file.
+3. Follow the tutorial steps to build the auto-verifier loop.
+4. Compare your results with the solution script.

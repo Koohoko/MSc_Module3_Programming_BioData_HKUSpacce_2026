@@ -8,10 +8,6 @@
 This repository contains the comprehensive preparation package for **Module 3**, tailored for Postgraduate Certificate in Bioinformatics for Medical Laboratory Technologists (MLTs). This plan integrates the "Code-as-Protocol" pedagogical approach.
 
 ## Repository Structure
-- **`lectures/`**: Slides and R scripts used during the lecture.
-- **`tutorials/`**: Interactive notebooks for hands-on practice.
-- **`data/`**: Raw datasets used in exercises.
-- **`setup/`**: Scripts to initialize the R environment.
 
 ## Quick Start
 No software installation is required. We will use Google Colab for our "Dry Lab" sessions. Remember to **change runtime to R** while using colab (**Runtime -> Change runtime type -> R**).
@@ -23,3 +19,17 @@ No software installation is required. We will use Google Colab for our "Dry Lab"
 - Session 2: Introduction to R (Part 2) - Data Frames & I/O
   - [Lecture Script](lectures/Session_02_DataFrames/Session_2_Script.R)
   - [Tutorial Notebook](tutorials/Session_02_Tutorial/Tutorial_2_LIS_Import.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_02_Tutorial/Tutorial_2_LIS_Import.ipynb)
+
+- Session 3: Introduction to R (Part 3) - Logic & Control Flow
+  - [Lecture Script](lectures/Session_03_Logic_and_Control/scripts/lecture_3_demo.R)
+  - [Tutorial Notebook](tutorials/Session_03_Tutorial/Tutorial_3_AutoVerifier.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_03_Tutorial/Tutorial_3_AutoVerifier.ipynb)
+  - [Tutorial Solution](lectures/Session_03_Logic_and_Control/scripts/tutorial_3_autoverifier.R)
+  - [Instructions](lectures/Session_03_Logic_and_Control/Session_3_Instructions.txt)
+
+- Session 4: Introduction to R (Part 4) - Data Visualization
+  - [Lecture Script](lectures/Session_04_Visualization/scripts/lecture_4_demo.R)
+  - [Colab Notebook](lectures/Session_04_Visualization/scripts/lecture_4_demo.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_04_Visualization/scripts/lecture_4_demo.ipynb)
+  - [Instructions](lectures/Session_04_Visualization/Session_4_Instructions.txt)
+  - [Tutorial Answer Key](lectures/Session_04_Visualization/scripts/tutorial_4_levey_jennings.R)
+  - [Tutorial Notebook](tutorials/Session_04_Tutorial/Tutorial_4_QC_Trend.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_04_Tutorial/Tutorial_4_QC_Trend.ipynb)
+  - [Tutorial Solution](tutorials/Session_04_Tutorial/Tutorial_4_QC_Trend_SOLUTIONS.ipynb)

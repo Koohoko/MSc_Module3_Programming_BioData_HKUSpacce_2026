@@ -1,0 +1,33 @@
+Session 4: Data Visualization with ggplot2
+=========================================
+
+Overview
+--------
+This session converts R from a calculator into a clinical dashboard. You will learn how to visualize QC trends, add decision thresholds, and compare instruments side by side.
+
+Learning Objectives
+-------------------
+1. Understand the ggplot2 grammar: data, aesthetics (aes), and geoms.
+2. Build common clinical charts: histograms, boxplots, scatter plots, and Levey-Jennings time series.
+3. Add clinical context with thresholds (mean, +2SD, -2SD) using horizontal reference lines.
+4. Use faceting to split dashboards by instrument for rapid comparison.
+5. Export publication-ready figures with `ggsave()`.
+
+Files
+-----
+- data/daily_qc_trend.csv: 30 days of low-level QC for Machine A and Machine B.
+- scripts/lecture_4_demo.R: Code demonstrated during the lecture (with ggplot2 layers).
+- scripts/tutorial_4_levey_jennings.R: Completed tutorial script (answer key).
+
+Instructions
+------------
+1. Open the lecture notebook in Colab to follow the live demo.
+2. Load `daily_qc_trend.csv`, convert `Date` to `Date`, and inspect the data.
+3. Rebuild the Levey-Jennings chart: line + points, add mean and ±2SD with `geom_hline`.
+4. Facet by `Instrument` to separate Machine A and Machine B.
+5. Apply a clean theme (`theme_bw`) and add labels for title, x, and y axes.
+6. Export the chart as `QC_Dashboard_Jan2026.pdf` using `ggsave()` (optional but recommended).
+
+Tip
+---
+If the chart looks cluttered, start simple (line + points), then layer thresholds, then facet. Build it step by step.
