@@ -1,5 +1,5 @@
 admin/*
-assessments/* 
+# assessments/* 
 *_Solutions_Key.ipynb
 Todo.md
 # *.key
