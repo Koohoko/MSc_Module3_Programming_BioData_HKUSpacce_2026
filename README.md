@@ -27,4 +27,11 @@ No software installation is required. We will use Google Colab for our "Dry Lab"
 - Session 4: Introduction to R (Part 4) - Data Visualization
   - [Lecture Notebook](lectures/Session_04_Visualization/scripts/lecture_4_demo.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_04_Visualization/scripts/lecture_4_demo.ipynb)
   - [Tutorial Notebook](tutorials/Session_04_Tutorial/Tutorial_4_QC_Trend.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_04_Tutorial/Tutorial_4_QC_Trend.ipynb)
-  
+
+- Session 5: Hypothesis Testing - T-tests & Normality
+  - [Lecture Notebook](lectures/Session_05_Hypothesis_Testing/Session_5_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_05_Hypothesis_Testing/Session_5_Lecture.ipynb)
+  - [Tutorial Notebook](tutorials/Session_05_Tutorial/Tutorial_5_Method_Validation.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_05_Tutorial/Tutorial_5_Method_Validation.ipynb)
+
+- Session 6: ANOVA & Linear Regression
+  - [Lecture Notebook](lectures/Session_06_ANOVA_Regression/Session_6_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_06_ANOVA_Regression/Session_6_Lecture.ipynb)
+  - [Tutorial Notebook](tutorials/Session_06_Tutorial/Tutorial_6_Calibration_Verification.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_06_Tutorial/Tutorial_6_Calibration_Verification.ipynb)
