@@ -43,3 +43,8 @@ No software installation is required. We will use Google Colab for our "Dry Lab"
 - Session 8: Laboratory Quality Control (LJ Charts & Westgard)
   - [Lecture Notebook](lectures/Session_08_Quality_Control/Session_8_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_08_Quality_Control/Session_8_Lecture.ipynb)
   - [Tutorial Notebook](tutorials/Session_08_Tutorial/Tutorial_8_QC_Dashboard.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_08_Tutorial/Tutorial_8_QC_Dashboard.ipynb)
+
+## Assessments
+
+- Assessment 1: R Fundamentals
+  - [Assessment Notebook](assessments/Assessment_1/CA1_R_Fundamentals.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/assessments/Assessment_1/CA1_R_Fundamentals.ipynb)
