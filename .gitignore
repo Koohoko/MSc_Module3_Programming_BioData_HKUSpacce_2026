@@ -1,7 +1,8 @@
 admin/*
-# assessments/* 
+assessments/Assessment_2/*
 *_Solutions_Key.ipynb
 Todo.md
+.vscode/
 # *.key
 # *.pdf
 # *.pptx

@@ -35,3 +35,11 @@ No software installation is required. We will use Google Colab for our "Dry Lab"
 - Session 6: ANOVA & Linear Regression
   - [Lecture Notebook](lectures/Session_06_ANOVA_Regression/Session_6_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_06_ANOVA_Regression/Session_6_Lecture.ipynb)
   - [Tutorial Notebook](tutorials/Session_06_Tutorial/Tutorial_6_Calibration_Verification.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_06_Tutorial/Tutorial_6_Calibration_Verification.ipynb)
+
+- Session 7: Diagnostic Accuracy (ROC Curves)
+  - [Lecture Notebook](lectures/Session_07_Diagnostic_Accuracy/Session_7_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_07_Diagnostic_Accuracy/Session_7_Lecture.ipynb)
+  - [Tutorial Notebook](tutorials/Session_07_Tutorial/Tutorial_7_Optimizing_Cutoff.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_07_Tutorial/Tutorial_7_Optimizing_Cutoff.ipynb)
+
+- Session 8: Laboratory Quality Control (LJ Charts & Westgard)
+  - [Lecture Notebook](lectures/Session_08_Quality_Control/Session_8_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_08_Quality_Control/Session_8_Lecture.ipynb)
+  - [Tutorial Notebook](tutorials/Session_08_Tutorial/Tutorial_8_QC_Dashboard.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_08_Tutorial/Tutorial_8_QC_Dashboard.ipynb)
