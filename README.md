@@ -44,7 +44,32 @@ No software installation is required. We will use Google Colab for our "Dry Lab"
   - [Lecture Notebook](lectures/Session_08_Quality_Control/Session_8_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_08_Quality_Control/Session_8_Lecture.ipynb)
   - [Tutorial Notebook](tutorials/Session_08_Tutorial/Tutorial_8_QC_Dashboard.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_08_Tutorial/Tutorial_8_QC_Dashboard.ipynb)
 
+- Session 9: Introduction to Bioconductor (Biostrings)
+  - [Lecture Notebook](lectures/Session_09_Bioconductor/Session_9_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_09_Bioconductor/Session_9_Lecture.ipynb)
+  - [Tutorial Notebook](tutorials/Session_09_Tutorial/Tutorial_9_Sequence_Manipulation.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_09_Tutorial/Tutorial_9_Sequence_Manipulation.ipynb)
+
+- Session 10: Sanger Sequencing Analysis (sangeranalyseR)
+  - [Lecture Notebook](lectures/Session_10_Sanger/Session_10_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_10_Sanger/Session_10_Lecture.ipynb)
+  - [Tutorial Notebook](tutorials/Session_10_Tutorial/Tutorial_10_Processing_Sanger.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_10_Tutorial/Tutorial_10_Processing_Sanger.ipynb)
+
+- Session 11: Phylogenetics (MSA & Tree Building)
+  - [Lecture Notebook](lectures/Session_11_Phylogenetics/Session_11_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_11_Phylogenetics/Session_11_Lecture.ipynb)
+  - [Tutorial Notebook](tutorials/Session_11_Tutorial/Tutorial_11_Constructing_Tree.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_11_Tutorial/Tutorial_11_Constructing_Tree.ipynb)
+
+- Session 12: Visualization & Reporting (ggtree)
+  - [Lecture Notebook](lectures/Session_12_Visualization/Session_12_Lecture.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/lectures/Session_12_Visualization/Session_12_Lecture.ipynb)
+  - [Tutorial Notebook](tutorials/Session_12_Tutorial/Tutorial_12_Final_Report.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/tutorials/Session_12_Tutorial/Tutorial_12_Final_Report.ipynb)
+
 ## Assessments
 
 - Assessment 1: R Fundamentals
   - [Assessment Notebook](assessments/Assessment_1/CA1_R_Fundamentals.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/assessments/Assessment_1/CA1_R_Fundamentals.ipynb)
+
+- Assessment 2: Biomarker Validation
+  - [Assessment Notebook](assessments/Assessment_2/CA2_Biomarker_Validation.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/assessments/Assessment_2/CA2_Biomarker_Validation.ipynb)
+
+- Assessment 3: Sanger Processing
+  - [Assessment Notebook](assessments/Assessment_3/CA3_Sanger_Processing.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/assessments/Assessment_3/CA3_Sanger_Processing.ipynb)
+
+- Assessment 4: ggtree Visualization
+  - [Assessment Notebook](assessments/Assessment_4/CA4_ggtree_Visualization.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Koohoko/MSc_Module3_Programming_BioData_HKUSpacce_2026/blob/main/assessments/Assessment_4/CA4_ggtree_Visualization.ipynb)
