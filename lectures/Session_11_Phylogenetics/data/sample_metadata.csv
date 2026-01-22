@@ -1,0 +1,10 @@
+Sample,Location,Collection_Date,Variant
+Wuhan-Hu-1_Reference,Wuhan,2019-12-01,Reference
+Alpha_B.1.1.7,UK,2020-09-20,Alpha
+Delta_B.1.617.2,India,2020-10-01,Delta
+Omicron_BA.1,South_Africa,2021-11-09,Omicron
+Patient_001_HK,Hong_Kong,2022-01-15,Alpha
+Patient_002_HK,Hong_Kong,2022-01-16,Omicron
+Patient_003_HK,Hong_Kong,2022-01-17,Omicron
+Patient_004_SZ,Shenzhen,2022-01-18,Delta
+Patient_005_SZ,Shenzhen,2022-01-19,Delta
