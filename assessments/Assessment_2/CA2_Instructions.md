@@ -12,7 +12,7 @@
 | **Duration** | 30 minutes |
 | **Format** | Open-book coding exercise in Google Colab |
 | **Topic** | Diagnostic Accuracy (Sessions 5-7) |
-| **Submission** | PDF via Moodle |
+| **Submission** | PDF + .ipynb (download from Colab) via Moodle |
 
 ---
 
@@ -61,7 +61,7 @@ Answer reflection questions.
 2. This generates a **unique dataset** for you
 3. Complete all coding tasks
 4. Document AI usage
-5. Submit as PDF
+5. Submit as PDF and .ipynb (File > Download > Download .ipynb)
 
 ---
 
