@@ -1,11 +1,10 @@
 admin/*
-# to be released on Feb 4
-assessments/Assessment_3/* 
+
 # to be released on Feb 11
 assessments/Assessment_4/* 
 *_Solutions_Key.ipynb
 Todo.md
-students_submission/Assessment_1/*
+students_submission/*
 .vscode/
 .DS_Store
 .agent/*
